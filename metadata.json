@@ -1,0 +1,6 @@
+{
+  "name": "Avadh Mandi & Taazi Tokari — Fresh Lucknow Produce Platform",
+  "description": "End-to-end residential society farm-to-table produce pre-ordering, dawn mandi procurement, warehouse packing, doorstep delivery, and admin console for Lucknow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
